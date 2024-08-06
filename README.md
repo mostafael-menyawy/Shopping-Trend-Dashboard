@@ -36,4 +36,8 @@ The analysis provided several key insights:
 - **Subscription Status**: Most customers do not have an active subscription.
 
 ## Screenshots
-- **Dashboard Overview**: [Shopping Dashboard.png]
+
+### Dashboard Overview
+
+![Dashboard Overview](Shopping Dashboard.png)
+
