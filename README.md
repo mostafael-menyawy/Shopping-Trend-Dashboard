@@ -39,5 +39,5 @@ The analysis provided several key insights:
 
 ### Dashboard Overview
 
-![Dashboard Overview](Shopping Dashboard.png)
+![Dashboard Overview](Shopping%20Dashboard.png)
 
